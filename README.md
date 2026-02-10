@@ -20,7 +20,7 @@ Bu proje, Flutter kullanılarak geliştirilmiş modern ve şık bir **Profil Ara
 
 | Profil Sayfası |
 | :---: |
-| ![Profil Sayfası Ekran Görüntüsü](assets/profil.png) ||
+| ![Profil Sayfası Ekran Görüntüsü](assets/profil.jpg) ||
 
 
 ## Kurulum ve Çalıştırma
